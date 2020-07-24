@@ -1,1 +1,18 @@
 @import url(reset.css);
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  width: 98%;
+}
+i {
+  padding: 1px;
+  font-size: 25px;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d2d2d2;
+}
